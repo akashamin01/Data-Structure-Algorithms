@@ -7,3 +7,5 @@
 - Move all Negatives to the top
 - Union and Intersection of unsorted arrays
 - Cyclically Rotate Array 
+- Minimize the Heights -> IMP
+- Largest Sum contiguous SubArray -> IMP
