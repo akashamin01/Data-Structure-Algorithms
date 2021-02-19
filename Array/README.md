@@ -9,3 +9,6 @@
 - Cyclically Rotate Array 
 - Minimize the Heights -> IMP
 - Largest Sum contiguous SubArray -> IMP
+- Minimum Number of Jumps to reach end
+- Find duplicate 
+- Merge Two Sorted Arrays(Without extra space)
