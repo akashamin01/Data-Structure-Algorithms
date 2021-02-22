@@ -12,3 +12,7 @@
 - Minimum Number of Jumps to reach end
 - Find duplicate 
 - Merge Two Sorted Arrays(Without extra space)
+- Count Sorting Swaps 
+- Merge Intervals - Meeting Room Problem
+- Best Time to Buy Sell Stock - Maximize Profit
+- Kadane's Algorithm - Maximum Subarray Sum
