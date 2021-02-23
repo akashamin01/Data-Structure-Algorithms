@@ -16,3 +16,9 @@
 - Merge Intervals - Meeting Room Problem
 - Best Time to Buy Sell Stock - Maximize Profit
 - Kadane's Algorithm - Maximum Subarray Sum
+- Match Commom elements from multiple arrays
+- SubArray with sum = 0
+- Rearrange the array in Possitve-negative alternate manner
+- Pairs adding up to k
+- Factorial of large numbers -> IMP
+- Maximum Product Subrray
